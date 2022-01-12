@@ -1,0 +1,44 @@
+body{
+    background-color: #ffffff;
+}
+
+.navbar{
+    font-family: 'Montserrat', sans-serif;
+    background: #a5d3ff;
+}
+
+.container{
+    font-weight: 20;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+img{
+    width: 500px;
+    height: 480px;
+    margin-right: 550px; 
+    margin-top: -160px;
+}
+
+.text{
+    font-size: 45px; 
+    width: 70; 
+    margin-top: -350px;
+}
+.col-md-6{
+    margin-left: 500px;
+}
+
+.button{
+    margin-top: 20px;
+    margin-left: 500px;
+}
+
+.footer{
+    margin-top: 120px;
+}
+
+.footer p{
+    color: #acacac;
+    font-size: 18px;
+}

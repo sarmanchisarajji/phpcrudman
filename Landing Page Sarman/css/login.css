@@ -1,0 +1,11 @@
+body{
+    background-color: #0099ffcb;
+}
+.container{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.card-header{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #adb5bd;
+}
